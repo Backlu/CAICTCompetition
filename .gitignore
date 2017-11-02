@@ -1,0 +1,14 @@
+data/
+tb-log1/
+tb-log/
+case_management/
+case_management/*
+case_management
+checkpoints/
+backup/
+static/
+__pycache__
+img/
+instance/
+doc/
+.ipynb_checkpoints
